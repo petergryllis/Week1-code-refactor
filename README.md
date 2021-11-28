@@ -14,5 +14,5 @@ changed to dark constrasting colours like blue to enable more constrast between 
 Comments were also added to html and css file for other developers to see the logic behind the changes and to allow easier readability.
 
 
-See link to the updated site [Horiseon site](https://petergryllis.github.io/Week1-code-refactor/).
+See link to the updated site [**Horiseon site**](https://petergryllis.github.io/Week1-code-refactor/). The previous site is available [**here**](/02-Homework/Assets/01-html-css-git-homework-demo.png) for comparison. 
 
