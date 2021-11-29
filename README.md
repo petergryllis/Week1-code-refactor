@@ -8,8 +8,7 @@ to access the website using assistive technology.
 The changes implemented include addition of semantics HTML elements, HTML structure to follow logical order, accessible alt attributes for images,
 heading attributes follow a sequential order and title element updated to provide a concise description of the site.
 
-Website was checked for accessibility using online tools and colours constrast was found to be inadequate by accessibility standards. Colours were
-changed to dark constrasting colours like blue to enable more constrast between text and background colour.
+Website was checked for accessibility using [**online tool**](https://www.deque.com/free-accessibility-test/) and colours constrast was found to be inadequate by accessibility standards. Colours were changed to dark constrasting colours like blue to enable more constrast between text and background colour. After updating the colour deficiencies the site received the following result "Good news! This page passed 23 of our checks. We also found zero critical or serious problems!"
 
 Comments were also added to html and css file for other developers to see the logic behind the changes and to allow easier readability.
 
